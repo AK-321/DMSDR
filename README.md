@@ -18,8 +18,8 @@
 
 ## STEP1:Package Dependency
 
-Make sure your local environment has the following installed:
-  python 3.8.5, scipy 1.10.1, pandas 1.1.3, torch 1.12.1, numpy 1.19.2, dill, rdkit 
+-Make sure your local environment has the following installed:
+  -python 3.8.5, scipy 1.10.1, pandas 1.1.3, torch 1.12.1, numpy 1.19.2, dill, rdkit 
 
 ## STEP2:Run Model
 
